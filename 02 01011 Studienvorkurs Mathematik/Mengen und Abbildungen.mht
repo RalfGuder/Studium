@@ -1,0 +1,230 @@
+From: <Mit Microsoft Internet Explorer 7 gespeichert>
+Subject: Mengen und Abbildungen
+Date: Thu, 3 Nov 2011 16:05:36 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CC9A42.6C9E8970"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6109
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CC9A42.6C9E8970
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.fernuni-hagen.de/MATHEMATIK/DMO/mitarbeiter/Schulte/Vortrag1/Vortrag1.htm
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=3D(0014)about:internet --><HTML lang=3Den =
+xml:lang=3D"en"=20
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>Mengen und =
+Abbildungen</TITLE><!-- saved from url=3D(0025)http://www.techsmith.com/ =
+-->
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3DUTF-8">
+<META content=3DVortrag1 name=3DDC.title>
+<SCRIPT=20
+src=3D"http://www.fernuni-hagen.de/MATHEMATIK/DMO/mitarbeiter/Schulte/Vor=
+trag1/swfobject.js"=20
+type=3Dtext/javascript></SCRIPT>
+
+<STYLE type=3Dtext/css>BODY {
+	FONT: 0.8em/1.3em verdana,arial,helvetica,sans-serif; BACKGROUND-COLOR: =
+#1a1a1a; TEXT-ALIGN: center
+}
+#media {
+	MARGIN-TOP: 40px
+}
+#noUpdate {
+	PADDING-RIGHT: 40px; PADDING-LEFT: 40px; FONT-SIZE: x-small; =
+PADDING-BOTTOM: 40px; MARGIN: 0px auto; WIDTH: 210px; COLOR: #cccccc; =
+PADDING-TOP: 40px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: =
+200px; TEXT-ALIGN: left
+}
+</STYLE>
+
+<META content=3D"MSHTML 6.00.6000.21305" name=3DGENERATOR></HEAD>
+<BODY>
+<DIV id=3Dmedia>
+<DIV id=3DnoUpdate>
+<P>The Camtasia Studio video content presented here requires JavaScript =
+to be=20
+enabled and the latest version of the Macromedia Flash Player. If you =
+are you=20
+using a browser with JavaScript disabled please enable it now. =
+Otherwise, please=20
+update your version of the free Flash Player by <A=20
+href=3D"http://www.macromedia.com/go/getflashplayer">downloading =
+here</A>.=20
+</P></DIV></DIV>
+<SCRIPT type=3Dtext/javascript>
+			// <![CDATA[
+			var so =3D new SWFObject( "Vortrag1.swf", "csSWF", "640", "498", =
+"9.0.28", "#1a1a1a");
+			so.addParam( "quality", "best" );
+			so.addParam( "allowFullScreen", "true" );
+			so.addParam( "scale", "showall" );
+			so.addParam( "allowScriptAccess", "always" );
+			so.addVariable( "autostart", "false" );
+			so.write("media");		=09
+			// ]]>
+		</SCRIPT>
+<!-- Users looking for simple object / embed tags can copy and paste the =
+needed tags below.
+			<div id=3D"media">
+            <object id=3D"csSWF" =
+classid=3D"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width=3D"640" =
+height=3D"498" codebase=3D"http://active.macromedia.com/flash7/cabs/ =
+swflash.cab#version=3D9,0,28,0">
+                <param name=3D"src" value=3D"Vortrag1.swf"/>
+                <param name=3D"bgcolor" value=3D"#1a1a1a"/>
+                <param name=3D"quality" value=3D"best"/>
+                <param name=3D"allowScriptAccess" value=3D"always"/>
+                <param name=3D"allowFullScreen" value=3D"true"/>
+                <param name=3D"scale" value=3D"showall"/>
+                <param name=3D"flashVars" value=3D"autostart=3Dfalse"/>
+                <embed name=3D"csSWF" src=3D"Vortrag1.swf" width=3D"640" =
+height=3D"498" bgcolor=3D"#1a1a1a" quality=3D"best" =
+allowScriptAccess=3D"always" allowFullScreen=3D"true" scale=3D"showall" =
+flashVars=3D"autostart=3Dfalse" =
+pluginspage=3D"http://www.macromedia.com/shockwave/download/index.cgi?P1_=
+Prod_Version=3DShockwaveFlash"></embed>
+            </object>
+        </div>
+		--></BODY></HTML>
+
+------=_NextPart_000_0000_01CC9A42.6C9E8970
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.fernuni-hagen.de/MATHEMATIK/DMO/mitarbeiter/Schulte/Vortrag1/swfobject.js
+
+/**=0A=
+ * SWFObject v1.5: Flash Player detection and embed - =
+http://blog.deconcept.com/swfobject/=0A=
+ *=0A=
+ * SWFObject is (c) 2007 Geoff Stearns and is released under the MIT =
+License:=0A=
+ * http://www.opensource.org/licenses/mit-license.php=0A=
+ *=0A=
+ */=0A=
+if(typeof deconcept=3D=3D"undefined"){var deconcept=3Dnew =
+Object();}if(typeof =
+deconcept.util=3D=3D"undefined"){deconcept.util=3Dnew =
+Object();}if(typeof =
+deconcept.SWFObjectUtil=3D=3D"undefined"){deconcept.SWFObjectUtil=3Dnew =
+Object();}deconcept.SWFObject=3Dfunction(_1,id,w,h,_5,c,_7,_8,_9,_a){if(!=
+document.getElementById){return;}this.DETECT_KEY=3D_a?_a:"detectflash";th=
+is.skipDetect=3Ddeconcept.util.getRequestParameter(this.DETECT_KEY);this.=
+params=3Dnew Object();this.variables=3Dnew =
+Object();this.attributes=3Dnew =
+Array();if(_1){this.setAttribute("swf",_1);}if(id){this.setAttribute("id"=
+,id);}if(w){this.setAttribute("width",w);}if(h){this.setAttribute("height=
+",h);}if(_5){this.setAttribute("version",new =
+deconcept.PlayerVersion(_5.toString().split(".")));}this.installedVer=3Dd=
+econcept.SWFObjectUtil.getPlayerVersion();if(!window.opera&&document.all&=
+&this.installedVer.major>7){deconcept.SWFObject.doPrepUnload=3Dtrue;}if(c=
+){this.addParam("bgcolor",c);}var =
+q=3D_7?_7:"high";this.addParam("quality",q);this.setAttribute("useExpress=
+Install",false);this.setAttribute("doExpressInstall",false);var =
+_c=3D(_8)?_8:window.location;this.setAttribute("xiRedirectUrl",_c);this.s=
+etAttribute("redirectUrl","");if(_9){this.setAttribute("redirectUrl",_9);=
+}};deconcept.SWFObject.prototype=3D{useExpressInstall:function(_d){this.x=
+iSWFPath=3D!_d?"expressinstall.swf":_d;this.setAttribute("useExpressInsta=
+ll",true);},setAttribute:function(_e,_f){this.attributes[_e]=3D_f;},getAt=
+tribute:function(_10){return =
+this.attributes[_10];},addParam:function(_11,_12){this.params[_11]=3D_12;=
+},getParams:function(){return =
+this.params;},addVariable:function(_13,_14){this.variables[_13]=3D_14;},g=
+etVariable:function(_15){return =
+this.variables[_15];},getVariables:function(){return =
+this.variables;},getVariablePairs:function(){var _16=3Dnew Array();var =
+key;var _18=3Dthis.getVariables();for(key in =
+_18){_16[_16.length]=3Dkey+"=3D"+_18[key];}return =
+_16;},getSWFHTML:function(){var =
+_19=3D"";if(navigator.plugins&&navigator.mimeTypes&&navigator.mimeTypes.l=
+ength){if(this.getAttribute("doExpressInstall")){this.addVariable("MMplay=
+erType","PlugIn");this.setAttribute("swf",this.xiSWFPath);}_19=3D"<embed =
+type=3D\"application/x-shockwave-flash\" =
+src=3D\""+this.getAttribute("swf")+"\" =
+width=3D\""+this.getAttribute("width")+"\" =
+height=3D\""+this.getAttribute("height")+"\" =
+style=3D\""+this.getAttribute("style")+"\"";_19+=3D" =
+id=3D\""+this.getAttribute("id")+"\" =
+name=3D\""+this.getAttribute("id")+"\" ";var =
+_1a=3Dthis.getParams();for(var key in =
+_1a){_19+=3D[key]+"=3D\""+_1a[key]+"\" ";}var =
+_1c=3Dthis.getVariablePairs().join("&");if(_1c.length>0){_19+=3D"flashvar=
+s=3D\""+_1c+"\"";}_19+=3D"/>";}else{if(this.getAttribute("doExpressInstal=
+l")){this.addVariable("MMplayerType","ActiveX");this.setAttribute("swf",t=
+his.xiSWFPath);}_19=3D"<object id=3D\""+this.getAttribute("id")+"\" =
+classid=3D\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" =
+width=3D\""+this.getAttribute("width")+"\" =
+height=3D\""+this.getAttribute("height")+"\" =
+style=3D\""+this.getAttribute("style")+"\">";_19+=3D"<param =
+name=3D\"movie\" value=3D\""+this.getAttribute("swf")+"\" />";var =
+_1d=3Dthis.getParams();for(var key in _1d){_19+=3D"<param =
+name=3D\""+key+"\" value=3D\""+_1d[key]+"\" />";}var =
+_1f=3Dthis.getVariablePairs().join("&");if(_1f.length>0){_19+=3D"<param =
+name=3D\"flashvars\" value=3D\""+_1f+"\" />";}_19+=3D"</object>";}return =
+_19;},write:function(_20){if(this.getAttribute("useExpressInstall")){var =
+_21=3Dnew =
+deconcept.PlayerVersion([6,0,65]);if(this.installedVer.versionIsValid(_21=
+)&&!this.installedVer.versionIsValid(this.getAttribute("version"))){this.=
+setAttribute("doExpressInstall",true);this.addVariable("MMredirectURL",es=
+cape(this.getAttribute("xiRedirectUrl")));document.title=3Ddocument.title=
+.slice(0,47)+" - Flash Player =
+Installation";this.addVariable("MMdoctitle",document.title);}}if(this.ski=
+pDetect||this.getAttribute("doExpressInstall")||this.installedVer.version=
+IsValid(this.getAttribute("version"))){var n=3D(typeof =
+_20=3D=3D"string")?document.getElementById(_20):_20;n.innerHTML=3Dthis.ge=
+tSWFHTML();return =
+true;}else{if(this.getAttribute("redirectUrl")!=3D""){document.location.r=
+eplace(this.getAttribute("redirectUrl"));}}return =
+false;}};deconcept.SWFObjectUtil.getPlayerVersion=3Dfunction(){var =
+_23=3Dnew =
+deconcept.PlayerVersion([0,0,0]);if(navigator.plugins&&navigator.mimeType=
+s.length){var x=3Dnavigator.plugins["Shockwave =
+Flash"];if(x&&x.description){_23=3Dnew =
+deconcept.PlayerVersion(x.description.replace(/([a-zA-Z]|\s)+/,"").replac=
+e(/(\s+r|\s+b[0-9]+)/,".").split("."));}}else{if(navigator.userAgent&&nav=
+igator.userAgent.indexOf("Windows CE")>=3D0){var axo=3D1;var =
+_26=3D3;while(axo){try{_26++;axo=3Dnew =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash."+_26);_23=3Dnew =
+deconcept.PlayerVersion([_26,0,0]);}catch(e){axo=3Dnull;}}}else{try{var =
+axo=3Dnew =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");}catch(e){try{var =
+axo=3Dnew ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");_23=3Dnew =
+deconcept.PlayerVersion([6,0,21]);axo.AllowScriptAccess=3D"always";}catch=
+(e){if(_23.major=3D=3D6){return _23;}}try{axo=3Dnew =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash");}catch(e){}}if(axo!=3Dnull=
+){_23=3Dnew deconcept.PlayerVersion(axo.GetVariable("$version").split(" =
+")[1].split(","));}}}return =
+_23;};deconcept.PlayerVersion=3Dfunction(_29){this.major=3D_29[0]!=3Dnull=
+?parseInt(_29[0]):0;this.minor=3D_29[1]!=3Dnull?parseInt(_29[1]):0;this.r=
+ev=3D_29[2]!=3Dnull?parseInt(_29[2]):0;};deconcept.PlayerVersion.prototyp=
+e.versionIsValid=3Dfunction(fv){if(this.major<fv.major){return =
+false;}if(this.major>fv.major){return =
+true;}if(this.minor<fv.minor){return =
+false;}if(this.minor>fv.minor){return true;}if(this.rev<fv.rev){return =
+false;}return =
+true;};deconcept.util=3D{getRequestParameter:function(_2b){var =
+q=3Ddocument.location.search||document.location.hash;if(_2b=3D=3Dnull){re=
+turn q;}if(q){var _2d=3Dq.substring(1).split("&");for(var =
+i=3D0;i<_2d.length;i++){if(_2d[i].substring(0,_2d[i].indexOf("=3D"))=3D=3D=
+_2b){return _2d[i].substring((_2d[i].indexOf("=3D")+1));}}}return =
+"";}};deconcept.SWFObjectUtil.cleanupSWFs=3Dfunction(){var =
+_2f=3Ddocument.getElementsByTagName("OBJECT");for(var =
+i=3D_2f.length-1;i>=3D0;i--){_2f[i].style.display=3D"none";for(var x in =
+_2f[i]){if(typeof =
+_2f[i][x]=3D=3D"function"){_2f[i][x]=3Dfunction(){};}}}};if(deconcept.SWF=
+Object.doPrepUnload){if(!deconcept.unloadSet){deconcept.SWFObjectUtil.pre=
+pUnload=3Dfunction(){__flash_unloadHandler=3Dfunction(){};__flash_savedUn=
+loadHandler=3Dfunction(){};window.attachEvent("onunload",deconcept.SWFObj=
+ectUtil.cleanupSWFs);};window.attachEvent("onbeforeunload",deconcept.SWFO=
+bjectUtil.prepUnload);deconcept.unloadSet=3Dtrue;}}if(!document.getElemen=
+tById&&document.all){document.getElementById=3Dfunction(id){return =
+document.all[id];};}var =
+getQueryParamValue=3Ddeconcept.util.getRequestParameter;var =
+FlashObject=3Ddeconcept.SWFObject;var SWFObject=3Ddeconcept.SWFObject;
+------=_NextPart_000_0000_01CC9A42.6C9E8970--
